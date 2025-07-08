@@ -1,0 +1,10 @@
+# my.yaml
+# Deployment configuration for Cybersecurity Awareness Portal
+# Deployed by: Anubha
+
+project:
+  name: Cybersecurity Awareness Portal
+  deployed_by: Anubhav
+  environment: production
+  version: 1.0.0
+  deployment_date: 2024-06-09
